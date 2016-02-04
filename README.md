@@ -31,9 +31,11 @@ Leafeon is another Jekyll blog theme design by <a href="http://www.pizn.net">PIZ
 如果你认为我做的这些对你来说是有价值的, 并鼓励我进行更多开源和免费的开发. 那你可以资助我, 就算是一杯咖啡...If you find my work useful and you want to encourage the development of more free resources, you can do it by donating.
 
 PIZn 的支付宝二维码:
+
 <img src='./images/alipay_qr.jpg' width=128 height=128 />
 
 PIZn 的微信支付二维码:
+
 <img src='./images/weixin-qr.jpg' width=128 height=128 />
 
 ## License
