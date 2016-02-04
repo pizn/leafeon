@@ -34,11 +34,11 @@ If you find my work useful and you want to encourage the development of more fre
 
 PIZn 的支付宝二维码:
 
-<img src='./images/alipay_qr.jpg' />
+<img src='./images/alipay_qr.jpg' width=128 height=128 />
 
 PIZn 的微信支付二维码:
 
-<img src='./images/weinxin-qr.jpg' />
+<img src='./images/weixin-qr.jpg' width=128 height=128 />
 
 ## License
 
