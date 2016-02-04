@@ -2,6 +2,8 @@
 
 Leafeon 是 <a href="http://www.pizn.net">PIZn</a> 的又一个 Jekyll 博客主题, 但它有些不同, 它支持在线编辑你的博文. 如果你的博客是在 GitHub pages 上建立的, 并且是以 `username.github.io` 作为项目名称, 那么, 你将会很需要它的这个在线编辑功能, 祝你使用愉快.
 
+---
+
 Leafeon is another Jekyll blog theme design by <a href="http://www.pizn.net">PIZn</a>, but something different is it include the admin platform online. If your Jekyll blog host on GitHub pages and the repo name's like `username.github.io`, you will be excited to edit and publish your post.
 
 ## Usage
@@ -9,6 +11,8 @@ Leafeon is another Jekyll blog theme design by <a href="http://www.pizn.net">PIZ
 1. Fork 这个项目的代码到你的 `username.github.io` 项目.
 2. 你只需要在浏览器中访问 `username.github.io/admin`, 然后用的 GitHub 账号关联下, 就可以编辑博文了.
 3. 保存好之后, 刷新博文页面即可.
+
+---
 
 1. Fork this repo to your `username.github.io` project.
 2. Write post on your admin platform ==> `username.github.io/admin/`.
@@ -34,7 +38,7 @@ PIZn 的支付宝二维码:
 
 PIZn 的微信支付二维码:
 
-<img src='./images/weinxin_qr.jpg' />
+<img src='./images/weinxin-qr.jpg' />
 
 ## License
 
